@@ -1,4 +1,4 @@
-Real-Time Sign Language Interpreter
+**Real-Time Sign Language Interpreter**
 
 Overview
 
